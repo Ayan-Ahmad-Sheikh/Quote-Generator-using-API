@@ -13,6 +13,12 @@ A dynamic **Quote Generator Web App** built with **HTML, CSS, and JavaScript** t
 - 🌐 Fetches quotes from an external API
 - ⚡ Fast, lightweight, and responsive
 - 🧠 Provides motivational, inspirational, and life quotes
+
+## 🚀 Live Demo
+
+🔗 Live Demo :- https://ayan-ahmad-sheikh.github.io/Quote-Generator-using-API/
+
+
 ## Installation
 
 Follow these steps to run this project locally on your computer:
